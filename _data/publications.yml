@@ -1,13 +1,13 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    - title: "Synthetic Data Augmentation for Enhanced Chicken Carcass Instance Segmentation"
+    authors: "<strong>Yihong Feng</strong>, Chaitanya Pallerla, Xin Lin, Pouya Sohrabipour, Philip Crandall, Wei Shou, Yu She, Dongyi Wang"
+    conference: "IEEE Transactions on AgriFood Electronics, 2025."
+    conference_short: "IEEE TAFE"
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11319168
+    # code: # 代码链接,没有就删掉这行
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/pi
     notes: Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
