@@ -4,19 +4,30 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. Candidate (All But Dissertation) in Biological Engineering at the [University of Arkansas](https://www.uark.edu/), working at the intersection of computer vision, machine learning, and generative AI.
+
+My research focuses on building end-to-end ML systems that bridge synthetic and real-world data — including deep learning architectures for instance segmentation (Mask R-CNN, YOLOv11-Seg, Mask2Former), 3D synthetic data pipelines in Blender, and multimodal hyperspectral imaging across 438+ wavelength channels. I am particularly interested in how generative AI, foundation models, and depth-aware vision systems can solve practical perception challenges at scale.
+
+Beyond research, I have led cross-functional teams in the ASABE Robotics Competition and NSF I-Corps initiatives, and published in venues including *IEEE Transactions on AgriFood Electronics*. I enjoy turning complex technical problems into deployable solutions through strong Python engineering, careful experimentation, and collaboration across disciplines.
+
+I am always open to connecting with researchers, engineers, and teams working on computer vision, machine learning, generative AI, and 3D/perception systems.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** instance segmentation, 3D modeling, depth-aware perception
+- **Machine Learning:** synthetic data pipelines, sim-to-real transfer, foundation models
+- **Generative AI:** generative models for data synthesis and perception at scale
+- **Multimodal Imaging:** hyperspectral imaging and RGB-D fusion
 
-## News
+## Education
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **University of Arkansas**, Fayetteville, USA  
+*Ph.D. in Agricultural Engineering*, Since 2022
+- **China Agricultrual University**, Beijing, China  
+*M.S. in Food Engineering*, 2017-2020
+- **Xinjiang Agricultrual University**, Xinjiang, China  
+*B.S. in Agricultural Engineering*, 2011-2015
+
 
 {% include_relative _includes/publications.md %}
 
