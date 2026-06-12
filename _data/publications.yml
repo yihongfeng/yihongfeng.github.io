@@ -3,6 +3,7 @@ main:
     authors: "<strong>Yihong Feng</strong>, Chaitanya Pallerla, Xin Lin, Pouya Sohrabipour, Philip Crandall, Wei Shou, Yu She, Dongyi Wang"
     conference: "IEEE Transactions on AgriFood Electronics, 2025."
     conference_short: "IEEE TAFE"
+    link: https://ieeexplore.ieee.org/document/11319168
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11319168
     image: ./assets/img/Pipeline_final_converted.png
 
@@ -10,6 +11,7 @@ main:
     authors: "Chaitanya Pallerla, <strong>Yihong Feng</strong>, Casey M. Owens, Ramesh Bahadur Bist, Siavash Mahmoudi, Pouya Sohrabipour, Amirreza Davar, Dongyi Wang"
     conference: Artificial Intelligence in Agriculture
     conference_short: Journal
+    link: https://www.sciencedirect.com/science/article/pii/S2589721724000424
     pdf: https://arxiv.org/pdf/2409.17210v1
     image: ./assets/img/1-s2.0-S2589721724000424-gr1.jpg
 
@@ -17,4 +19,5 @@ main:
     authors: "Philip G. Crandall, Corliss A. O'Bryan, Brandon R. McFadden, Dongyi Wang, Tomi Obe, Jenny Houlroyd, Trey Sawyers, <strong>Yihong Feng</strong>"
     conference: "Safety and Health at Work, 2025."
     conference_short: "Journal"
-    pdf: https://www.sciencedirect.com/science/article/pii/S2093791125000770
+    link: https://www.sciencedirect.com/science/article/pii/S2093791125000770
+    image: ./assets/img/1-s2.0-S2093791125000770-gr1.jpg
