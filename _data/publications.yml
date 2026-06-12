@@ -10,13 +10,13 @@ main:
     image: ./assets/img/Pipeline_final_converted.png
     # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Neural network architecture search enabled wide-deep learning (NAS-WD) for spatially heterogenous property awared chicken woody breast classification and hardness regression"
+    authors: "Chaitanya Pallerla, <strong>Yihong Feng</strong>, Casey M. Owens, Ramesh Bahadur Bist, Siavash Mahmoudi, Pouya Sohrabipour, Amirreza Davar, Dongyi Wang"
+    conference_short: Artificial Intelligence in Agriculture
+    conference: Artificial Intelligence in Agriculture
+    pdf: https://arxiv.org/pdf/2409.17210v1
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/1-s2.0-S2589721724000424-gr1.jpg
