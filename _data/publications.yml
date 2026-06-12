@@ -1,33 +1,20 @@
 main:
-
-    - title: "Synthetic Data Augmentation for Enhanced Chicken Carcass Instance Segmentation"
+  - title: "Synthetic Data Augmentation for Enhanced Chicken Carcass Instance Segmentation"
     authors: "<strong>Yihong Feng</strong>, Chaitanya Pallerla, Xin Lin, Pouya Sohrabipour, Philip Crandall, Wei Shou, Yu She, Dongyi Wang"
     conference: "IEEE Transactions on AgriFood Electronics, 2025."
     conference_short: "IEEE TAFE"
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11319168
-    # code: # 代码链接,没有就删掉这行
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Pipeline_final_converted.png
-    # notes: Early Accept
 
   - title: "Neural network architecture search enabled wide-deep learning (NAS-WD) for spatially heterogenous property awared chicken woody breast classification and hardness regression"
     authors: "Chaitanya Pallerla, <strong>Yihong Feng</strong>, Casey M. Owens, Ramesh Bahadur Bist, Siavash Mahmoudi, Pouya Sohrabipour, Amirreza Davar, Dongyi Wang"
-    conference_short: Artificial Intelligence in Agriculture
     conference: Artificial Intelligence in Agriculture
+    conference_short: Journal
     pdf: https://arxiv.org/pdf/2409.17210v1
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
     image: ./assets/img/1-s2.0-S2589721724000424-gr1.jpg
 
-- title: "Review of Successful Workplace Interventions to Mitigate Work-related Musculoskeletal Disorders in Poultry Processing Plant Workers: Current Knowledge and Future Prospects"
-    authors: "Chaitanya Pallerla, <strong>Yihong Feng</strong>, Casey M. Owens, Ramesh Bahadur Bist, Siavash Mahmoudi, Pouya Sohrabipour, Amirreza Davar, Dongyi Wang"
-    conference_short: Artificial Intelligence in Agriculture
-    conference: Artificial Intelligence in Agriculture
-    pdf: https://arxiv.org/pdf/2409.17210v1
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
-    image: ./assets/img/1-s2.0-S2589721724000424-gr1.jpg
+  - title: "Review of Successful Workplace Interventions to Mitigate Work-related Musculoskeletal Disorders in Poultry Processing Plant Workers: Current Knowledge and Future Prospects"
+    authors: "Philip G. Crandall, Corliss A. O'Bryan, Brandon R. McFadden, Dongyi Wang, Tomi Obe, Jenny Houlroyd, Trey Sawyers, <strong>Yihong Feng</strong>"
+    conference: "Safety and Health at Work, 2025."
+    conference_short: "Journal"
+    pdf: https://www.sciencedirect.com/science/article/pii/S2093791125000770
