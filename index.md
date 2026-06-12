@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. Candidate (ABD) in Agricultural Engineering at the [University of Arkansas](https://www.uark.edu/), working at the intersection of computer vision, machine learning, and generative AI. My research focuses on end-to-end ML systems that bridge synthetic and real-world data, including deep learning for instance segmentation, 3D synthetic data pipelines in Blender, and multimodal hyperspectral imaging across 438+ wavelength channels. I am always open to connecting with researchers and teams working on computer vision, machine learning, generative AI, and 3D/perception systems.
+I am a Ph.D. Candidate (ABD) in Agricultural Engineering at the [University of Arkansas](https://www.uark.edu/), working at the intersection of computer vision, machine learning, and generative AI. My research focuses on end-to-end ML systems that bridge synthetic and real-world data, including deep learning for instance segmentation, 3D synthetic data pipelines in Blender, and multimodal hyperspectral imaging across 438+ wavelength channels. I am always open to connecting with researchers and teams working on computer vision, machine learning, generative AI, and 3D perception systems.
 
 ## Research Interests
 
