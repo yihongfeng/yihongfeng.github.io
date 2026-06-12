@@ -26,3 +26,9 @@ I am a Ph.D. Candidate (ABD) in Agricultural Engineering at the [University of A
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+## Award
+- Reginald R. "Barney" & Jameson A. Baxter Graduate Fellowship, 2024–2025
+- W.R. Thomas Endowed Doctoral Fellowship Fund, 2022–2023
+- 4th Place, ASABE Robotics Competition (Strawberry Harvester Prototype), 2024
+- 4th Place, ASABE Robotics Competition (Cotton Harvester Prototype), 2023
