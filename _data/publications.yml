@@ -7,8 +7,8 @@ main:
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11319168
     # code: # 代码链接,没有就删掉这行
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/pi
-    notes: Early Accept
+    image: ./assets/img/Pipeline_final_converted.png
+    # notes: Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
