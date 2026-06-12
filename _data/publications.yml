@@ -21,3 +21,17 @@ main:
     conference_short: "Journal"
     link: https://www.sciencedirect.com/science/article/pii/S2093791125000770
     image: ./assets/img/1-s2.0-S2093791125000770-gr1.jpg
+    
+  - title: "Smartphone-enabled Depth-aware Transillumination Imaging for Detection of Chicken Breast Fillet Myopathies in Chicken Fillets"
+    authors: "Chaitanya Pallerla, Ramesh Bist, <strong>Yihong Feng</strong>, Yang Tian, Shiva Paudel, Casey Owens, Cengiz Koparan, Jeyamkondan Subbiah, Dongyi Wang"
+    conference: "SSRN Preprint, 2026."
+    conference_short: "Preprint"
+    link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6352005
+    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6352005
+
+  - title: "Assessing the Feasibility of Low-Cost Multispectral Sensing for Woody Breast Severity Classification"
+    authors: "Chaitanya Pallerla, <strong>Yihong Feng</strong>, Avisekh Tripathy, Yang Tian, Pouya Sohrabipour, Amirreza Davar, Casey Owens, Philip Crandall, Jeyamkondan Subbiah, Dongyi Wang"
+    conference: "SSRN Preprint, 2026."
+    conference_short: "Preprint"
+    link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6616502
+    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6616502
