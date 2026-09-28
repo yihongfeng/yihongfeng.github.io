@@ -2,19 +2,20 @@
 title: Yihong Feng
 position: Ph.D. Candidate
 affiliation: University of Arkansas
+affiliation_link: https://www.uark.edu/
 email: yihongf@uark.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Yihong Feng, University of Arkansas, agricultural engineering, computer vision, machine learning, generative AI, instance segmentation, synthetic data, hyperspectral imaging
+description: Yihong Feng is a Ph.D. candidate in Agricultural Engineering at the University of Arkansas, working on computer vision, machine learning, and generative AI.
+canonical: https://yihongfeng.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=o8CTOm8AAAAJ&hl=zh-CN&authuser=1
+google_scholar: https://scholar.google.com/citations?user=o8CTOm8AAAAJ
 cv_link: assets/files/curriculum_vitae.pdf
-# github_link: https://github.com/yihongfeng86-cmd
+# github_link: https://github.com/yihongfeng
 linkedin: https://www.linkedin.com/in/yihong-feng-340221143/
 
 

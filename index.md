@@ -17,9 +17,9 @@ I am a Ph.D. Candidate (ABD) in Agricultural Engineering at the [University of A
 
 - **University of Arkansas**, Fayetteville, USA  
 *Ph.D. in Agricultural Engineering*, Since 2022
-- **China Agricultrual University**, Beijing, China  
+- **China Agricultural University**, Beijing, China  
 *M.S. in Food Engineering*, 2017-2020
-- **Xinjiang Agricultrual University**, Xinjiang, China  
+- **Xinjiang Agricultural University**, Xinjiang, China  
 *B.S. in Agricultural Engineering*, 2011-2015
 
 
